@@ -17,5 +17,11 @@ public class solarSystem {
 
         // ...
 
+        planet2 perox = new planet2();
+        perox.color = "green";
+        perox.size = "1km";
+        perox.radius = "3km";
+
+
     }
 }
