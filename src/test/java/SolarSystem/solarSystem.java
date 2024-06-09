@@ -17,12 +17,19 @@ public class solarSystem {
 
         // ...
 
+
         planet1 renox = new planet1();
         renox.color = "grey";
         renox.size = "10km";
         renox.radius = "5km";
 
         // ...
+
+        planet2 perox = new planet2();
+        perox.color = "green";
+        perox.size = "1km";
+        perox.radius = "3km";
+
 
 
     }
